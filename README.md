@@ -1,7 +1,7 @@
 # CURD
 Do Any Thing 
 
-=======================================for class TODO============
+=======================================for class TODO==============
 package home;
 
 import lombok.AllArgsConstructor;
